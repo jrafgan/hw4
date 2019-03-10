@@ -1,0 +1,22 @@
+.ic-fb, .ic-tw, .ic-rss{
+	background: url(../images/css_sprites.png) no-repeat;
+}
+
+.ic-fb{
+	background-position: -21px -81px ;
+	width: 11px;
+	height: 23px;
+}
+
+.ic-tw{
+	background-position: -21px -179px ;
+	width: 26px;
+	height: 19px;
+}
+
+.ic-rss{
+	background-position: -22px -292px ;
+	width: 16px;
+	height: 17px;
+}
+
